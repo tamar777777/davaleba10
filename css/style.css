@@ -95,7 +95,7 @@ background-color: #DEE2EB;
 }
 .section2-content{display: flex; flex-wrap: wrap; gap: 40px 20px; }
 
-.section2-article{}}
+.section2-article{}
 .section2-image-1{width: 100%;height: auto;
 object-fit: cover;
 }
